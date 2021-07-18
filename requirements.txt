@@ -3,7 +3,7 @@ pandas==1.2.4
 numpy==1.20.1       
 matplotlib==3.3.4
 seaborn==0.11.1   
-sqlite3==3.35.4 
+#sqlite3==3.35.4 
 pysqlite3==0.4.6
 sklearn==0.0 
 scikit-learn==0.24.1 
