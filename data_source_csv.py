@@ -24,7 +24,7 @@ import seaborn as sns    # data visualization
 from matplotlib import style
 # using the style for the plot
 plt.style.use('ggplot')
-#import sqlite3
+import sqlite3
 from sklearn import preprocessing
 from sklearn.cluster import KMeans
 from sklearn.linear_model import LinearRegression
